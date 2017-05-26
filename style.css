@@ -1,6 +1,6 @@
 body{
 	background-color: #f5f5f5;
-	background-image: url(skulls.png);
+	background-image: url(gambar.jpg);
 }
 .semua{
 	width: 70%;
@@ -35,7 +35,4 @@ a{
 a:hover{
 	color: #FCDA68;
 }
-.gambar{
-	background-image: url(gambar.jpg);
-	width: 250p	x;
-}
+
