@@ -1,0 +1,41 @@
+body{
+	background-color: #f5f5f5;
+	background-image: url(image/skulls.png);
+}
+.semua{
+	width: 70%;
+	margin: -15px auto;
+}
+.header{
+	background-color: #32383B;
+	border-radius: 5px;
+
+}
+h1{
+	color: #f5f5f5;
+	padding-left: 30px;
+	padding-top: 15px;
+	font-size: 50px;
+	margin-bottom: 0px;
+}
+
+.header ul li{
+	display: inline-block;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: -10px;
+	margin-top: -10px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-size: 21px;
+}
+a:hover{
+	color: #FCDA68;
+}
+.gambar{
+	background-image: url(image/gambar.jpg);
+	width: 250p	x;
+}
